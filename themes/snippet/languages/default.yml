@@ -34,7 +34,5 @@ post_tags: Tags
 post_licence: License
 notification: Notification
 toc: Table of Contents
-fore-end: Home
-back-end: Home
-classification: Home
-tools: Home
+visit_counter_uv: Visitors
+visit_counter_pv: Total
