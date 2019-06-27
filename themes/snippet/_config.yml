@@ -11,8 +11,8 @@ menu:
   - page: Python
     url: /categories/Python
     icon:
-  - page: Git
-    url: /categories/Git
+  - page: 数据库
+    url: /categories/数据库
     icon:
   - page: 前端
     url: /categories/前端
