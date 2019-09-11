@@ -1,9 +1,9 @@
 ---
 title: Git 常用命令
 tags:
-  - Git
+  - 工具
 categories:
-  - Git
+  - 工具
 comments: false    // 是否开启评论
 date: 2018-07-24 15:32:58
 ---
